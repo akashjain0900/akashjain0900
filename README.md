@@ -2,7 +2,7 @@
 - 👀 I’m interested in 
 - 🌱 I’m currently learning BCA in IoT
 - 💞️ I’m looking to collaborate on
-- 📫 How to reach me devakash.0900@gmail.com
+- 📫 How to reach me devakash0900@gmail.com
 
 <!---
 akashjain0900/akashjain0900 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
