@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @akashjain0900
-- 👀 I’m interested in 
 - 🌱 I’m currently learning BCA in IoT
-- 💞️ I’m looking to collaborate on
 - 📫 How to reach me devakash0900@gmail.com
 
 <!---
